@@ -35,6 +35,8 @@ How *do* I exists within the tiny screen of my computer, you ask? With great car
   [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
   [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://www.microsoft.com/en-gb/software-download/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://www.spotify.com/de-en/download/other/)
+  [![CSP](https://img.shields.io/badge/Clip%20Studio-FFF.svg?logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4gIDx0aXRsZT5DbGlwIFN0dWRpbyBQYWludDwvdGl0bGU+ICA8cGF0aCBkPSJNMTIuOTgzIDguMTA2czEuNzUtLjI1MyAyLjE1MS42OWMuNC45NDEuNTgxIDEuNTIzLS4yNiAyLjAwNEMxNC4wMzEgMTEuMjggOSAxMy4zNjYgOSAxMy4zNjZzLTMuNzg4IDEuNTQzLTYuMTU0LTEuNjA0LjItNS40OTMuMi01LjQ5My44NDMtLjg4MiAyLjkyOC0xLjcwMyA1LjYxMi0yLjA4NSA1LjYxMi0yLjA4NSAzLjI4Ny0uNzIxIDUuNjkzLjE4YzIuNDA2LjkwMiAzLjk3IDIuODA3IDMuOTcgMi44MDdzMS43NjMgMS45MjQgMS42ODMgNC4zM2MtLjA4MiAyLjQ2LS43NDIgMi45MDYtLjc0MiAyLjkwNnMtMS4yODMgMi43NDYtNC4zOSAzLjg4OS0zLjg2OSAxLjU4My0zLjg2OSAxLjU4M2wxLjM2NCAyLjE0NXMuNzgxIDEuNTg0LS44MjIgMi4wNjVjLTEuNjA0LjQ4LTIuMzg2LS42NjEtMi4zODYtLjY2MUw4LjggMTYuODUzbDguMjM4LTMuNjI4czIuNjQ2LTEuODQ0IDIuMzg2LTMuNzI4Yy0uMjUtMS44MTEtMS4yMjMtMy4wMjctMi41MjYtMy43NDktMS41MjMtLjk0Mi0yLjg2Ni0uNzAxLTIuODY2LS43MDFzLTEuNDY0LjIyLTMuMTg4Ljk0MmMtMS45MjQuNzIxLTQuMzUgMS44MDQtNC4zNSAxLjgwNHMtMS40NjMuNDYtMS4wNDIgMS42MjRjLjQyMSAxLjE2MiAxLjY4NCAxLjA2MiAxLjY4NCAxLjA2MnoiLz48L3N2Zz4=)](#)
+
 </div>
 
 ### 🦝 Socials 🦝
@@ -47,10 +49,14 @@ Are you trying to contact me?
   [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/lil_sibs_crib/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/sandra-kaae-johansen-2b28bb179/)
   [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/minicupcakez)
+  <!-- [![cityStuff](https://img.shields.io/badge/Neocities-F81894)](#) -->
 </div>
+
 ---
 
 ## 🍃 Personal 🍂
+I do a bunch of art, eventually I'll upload it all someplace and link to it but for now my source is trust me bro.
+
 
 ## 🩸 Friends 🩸
 <div align="center">
@@ -58,10 +64,10 @@ Are you trying to contact me?
   <br>
   <br>
 
-  <a href="https://github.com/Marcus543211"><img src="resources/marcus-modified.png" width="60">
-  <a href="https://github.com/OliviaJespersen"><img src="resources/olivia-modified.png" width="60">
-  <a href="https://github.com/sofielofberg"><img src="resources/sofie-modified.png" width="60">
-  <a href="https://github.com/DrFisk0"><img src="resources/jonas-modified.png" width="60">
+  <a href="https://github.com/Marcus543211"><img src="resources/marcus-modified.png" width="70">
+  <a href="https://github.com/OliviaJespersen"><img src="resources/olivia-modified.png" width="70">
+  <a href="https://github.com/sofielofberg"><img src="resources/sofie-modified.png" width="70">
+  <a href="https://github.com/DrFisk0"><img src="resources/jonas-modified.png" width="70">
 </div>
 
 
