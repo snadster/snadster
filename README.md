@@ -1,4 +1,4 @@
-# this is a heading and this ReadMe is a WIP
+# welcome!! 
 
 ## 🕸 Quickfire 🕸
 <img align="right" src="resources/witchy background.png" width="300">
@@ -7,7 +7,7 @@
 - ☠️ I’m currently learning C programming, Haskell, and linear algebra
 - 👀 I’m attempting to teach myself a bit of HTML
 - 🦴 Currently, I'm working on a general amount of small art-esque projects
-- 🤍 The art used here is mine! The stickers are grabbed from *find name of webpage*
+- 🤍 The art used here is mine! The stickers are grabbed from web badges world
 
 <br>
 <br>
@@ -72,12 +72,26 @@ I do a bunch of art, eventually I'll upload it all someplace and link to it but 
 <br>
 <br>
 <br>
+
+![](resources/renalGif.gif)
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
+![](resources/december.gif)
+![](resources/capricorn.gif)
+![](resources/dansk.gif)
+![](resources/inlove.gif)
+![](resources/love.gif)
+![](resources/fuckgender.png)
+![](resources/feminism.gif)
+[![click](resources/clickherebtn.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+![](resources/firefox_v2.png)
+![](resources/coke.png)
+![](resources/redbull.gif)
+![](resources/benandjerrys_copy1.gif)
+![](resources/sinanger.gif)
+![](resources/sinsloth.gif)
+
 
 </div>
 
