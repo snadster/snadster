@@ -77,7 +77,7 @@ I do a bunch of art, eventually I'll upload it all someplace and link to it but 
 
 ## 🩸 Friends 🩸
 <div align="center">
-
+<img src="resources/frens.png" width="300">
 
   <br>
   <br>
