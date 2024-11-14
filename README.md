@@ -1,11 +1,13 @@
 # this is a heading and this ReadMe is a WIP
 
 ## 🕸 Quickfire 🕸
+<img align="right" src="resources/witchy background.png" width="300">
 
 - 👻 I’m snadster! 
 - ☠️ I’m currently learning C programming, Haskell, and linear algebra
 - 👀 I’m attempting to teach myself a bit of HTML
 - 🦴 Currently, I'm working on a general amount of small art-esque projects
+- 🤍 The art used here is mine! The stickers are grabbed from *find name of webpage*
 
 <br>
 <br>
@@ -13,6 +15,9 @@
 ## 🎃 Skills 🎃
 Bearing in mind that skills here is to mean I could feasibly operate within these systems and write small programs.
 <div align="center">
+<img src="resources/venicePng.png" width="300">
+  
+  <br>
   <br>
   <br>
 
@@ -29,6 +34,8 @@ Bearing in mind that skills here is to mean I could feasibly operate within thes
 How *do* I exists within the tiny screen of my computer, you ask? With great care and minimal effort.
 
 <div align="center">
+  <img src="resources/tent by mountains.png" width="300">
+  
   <br>
   <br>
   
@@ -55,11 +62,22 @@ Are you trying to contact me?
 ---
 
 ## 🍃 Personal 🍂
-I do a bunch of art, eventually I'll upload it all someplace and link to it but for now my source is trust me bro.
+I do a bunch of art, eventually I'll upload it all someplace and link to it but for now my source is "trust me bro". 
 
+<div align="center">
+<img src="resources/kidneyPng.png" width="300">
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+</div>
 
 ## 🩸 Friends 🩸
 <div align="center">
+
 
   <br>
   <br>
