@@ -50,6 +50,8 @@ How *do* I exists within the tiny screen of my computer, you ask? With great car
 Are you trying to contact me?
 
 <div align="center">
+  <img src="resources/horse.png" width="300">
+
   <br>
   <br>
   
@@ -67,6 +69,10 @@ I do a bunch of art, eventually I'll upload it all someplace and link to it but 
 <div align="center">
 <img src="resources/kidneyPng.png" width="300">
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
