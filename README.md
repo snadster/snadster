@@ -73,7 +73,9 @@ I do a bunch of art, eventually I'll upload it all someplace and link to it but 
 <br>
 <br>
 
-![](resources/renalGif.gif)
+![](resources/renself.png)
+![](resources/bidino.png)
+![](resources/luv.png)
 <br>
 <br>
 
