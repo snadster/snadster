@@ -4,8 +4,8 @@
 <img align="right" src="resources/witchy background.png" width="300">
 
 - 👻 I’m snadster! 
-- ☠️ I’m currently learning C programming, Haskell, and linear algebra
-- 👀 I’m attempting to teach myself a bit of HTML
+- ☠️ I’m currently learning about Advanced algorithms, and operating systems
+- 👀 I’ve almost taught myself HTML
 - 🦴 Currently, I'm working on a general amount of small art-esque projects
 - 🤍 The art used here is mine! The stickers are grabbed from web badges world
 
