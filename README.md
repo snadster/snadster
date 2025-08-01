@@ -5,7 +5,7 @@
 
 - 👻 I’m snadster! 
 - ☠️ I’m currently learning about Advanced algorithms, and operating systems
-- 👀 I’ve almost taught myself HTML
+- 👀 I’m about halfway done with my neocities webpage!
 - 🦴 Currently, I'm working on a general amount of small art-esque projects
 - 🤍 The art used here is mine! The stickers are grabbed from web badges world, and the badges are grabbed from ![here](https://github.com/inttter/md-badges)
 
@@ -70,7 +70,12 @@ Are you trying to contact me?
 ---
 
 ## 🍃 Personal 🍂
-I do a bunch of art, eventually I'll upload it all someplace and link to it but for now my source is "trust me bro". 
+I do a bunch of art, eventually I'll upload it all someplace and link to it, but for now my source is "trust me bro". 
+Other than programming and digital art, I have around about 500 hobbies. This is because I was born with the "how hard could it be" gene,
+which makes me believe I could feasibly do most things armed only with my willpower and enough time.
+<br>
+In the sense of the real world, I'm trying to learn to play the drums, and once a year I spend every day for a month playing
+a viking in an outdoor theater production, meaning I'm super offline and camping in a tent.
 
 <div align="center">
 <img src="resources/kidneyPng.png" width="300">
