@@ -4,7 +4,7 @@
 <img align="right" src="resources/witchy background.png" width="300">
 
 - 👻 I’m snadster! 
-- ☠️ I’m currently learning about Advanced algorithms, and operating systems
+- ☠️ I’m currently learning about cybersecurity, software engineering, and other similar topics
 - 👀 I’m about halfway done with my neocities webpage!
 - 🦴 Currently, I'm working on a general amount of small art-esque projects
 - 🤍 The art used here is mine! The stickers are grabbed from web badges world, and the badges are grabbed from ![here](https://github.com/inttter/md-badges)
